@@ -85,9 +85,9 @@ body {
     color: var(--color-text);
     font-family: var(--font-family);
     line-height: var(--line-height);
+    padding: 0;
     margin: 2vw;
     overflow-x: hidden;
-    padding: 0;
 }
 
 footer,
